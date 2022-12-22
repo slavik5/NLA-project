@@ -1,2 +1,3 @@
 # NLA-project
 Done by Naumov and Mazanov
+Here you can see our implementation of the Gaussian belief propogation algorithm from the article Vladimir Fanaskov "GAUSSIAN BELIEF PROPAGATION SOLVERS FOR NONSYMMETRIC SYSTEMS OF LINEAR EQUATIONS". In the main file (notebook) you can see it's implementation and comparing with another algoritms. There is some auxirilary folder you can see can auxirilary files. gabp_mrf.py is using to implement the algorithm and some helping steps. synthetic_data.py is using to create matrix and vector for system. utils.py is used to some auxirilary functions. visualization.py is using to represent some result of the algorithms such as convegence of our graph and the tree visualisation of th martix. 
